@@ -14,8 +14,8 @@ Our game is based on one player and one ball in which case we lunch the ball fro
 
 ##### Controls of the game
 
-1. move right "->"
-2. move left "<-"
+1. board move right "->"
+2. board move left "<-"
 3. restart "A"
 4. speed up board "Z"
 5. speed down board "B"
