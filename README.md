@@ -4,7 +4,7 @@
 
 https://user-images.githubusercontent.com/97498924/174139559-e08ff0b4-769b-487c-8db4-ac2052a49988.mp4
 
-https://www.youtube.com/watch?v=pPaxK84oElg
+https://youtu.be/JgpzM-uf_aI
 
 ### Something about ping-pong history
 
