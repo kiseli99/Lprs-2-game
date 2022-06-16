@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/97498924/174139559-e08ff0b4-769b-487c-
 
 ### Something about ping-pong history
 
-Pong is one of the first computer games that ever created. The game was originally developed by Allan Alcorn and released in 1972 by Atari corporations.oday, the Pong Game is considered to be the game which started the video games industry, as it proved that the video games market can produce significant revenues.
+Pong is one of the first computer games that ever created. The game was originally developed by Allan Alcorn and released in 1972 by Atari corporations.Today, the Pong Game is considered to be the game which started the video games industry, as it proved that the video games market can produce significant revenues.
 
 #### About our game
 
