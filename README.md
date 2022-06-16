@@ -10,7 +10,7 @@ Pong is one of the first computer games that ever created. The game was original
 
 #### About our game
 
-Our game is based on one player and one ball in which case we lunch the ball from the middle of the screen.The reason why is like this is because it was easier for us to program the bounce of the ball from the board in this way. Goal of the game is that player dont let ball hit bottom of the screen, if ball hit bottom of the screen it is game over for player. New game start when player hit button for restart and the game start from the same position. We also updated button for speed up and speed down for the player board so if player dont have time to catch the ball he can speed up.
+Our game is based on one player and one ball in which case we lunch the ball from the middle of the screen.The reason why is like this are because it was easier for us to program bounce of the ball from the board in this way. Goal of the game are that player dont let ball to hit bottom of the screen, if ball hit bottom of the screen game  is over. New game start when player press button for restart. We also updated button for speed up and speed down for the player board, so if player dont have time to catch the ball he can speed up.
 
 ##### Controls of the game
 
