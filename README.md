@@ -20,3 +20,10 @@ Our game is based on one player and one ball in which case we lunch the ball fro
 4. speed up board "Z"
 5. speed down board "B"
 
+###### Function of moving ball
+
+1. If board dont move, ball will continue to move without changing direction.
+2. If board move to right and ball falling left, ball will continue to move without changing direction.
+3. If board move to right and ball falling right, ball will continue to move in other direction.
+4. If board move to left and ball falling right, ball will continue to move without changing direction.
+5. If board move to left and ball falling left, ball will continue to move in other direction.
